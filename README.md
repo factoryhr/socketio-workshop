@@ -7,7 +7,7 @@
 
 
 ## Opis datoteka
-** package.json i package-lock.json **
+**package.json i package-lock.json**
 - sadrži podatke o potrebnim bibliotekama i njihovim verzijama
 - kada se pokreće `npm install` naredba, prema ovim datotekama NPM zna koje verzije biblioteka treba instalirati
 
